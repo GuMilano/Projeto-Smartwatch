@@ -31,7 +31,7 @@ Principais estruturas/bibliotecas usadas para inicializar o projeto.
 
 * Clone o repositório do GitHub:
   ```
-  git clone https://github.com/https://github.com/GuMilano/Projeto-Smartwatch/SmartWatchApp.git
+  git clone https://github.com/GuMilano/Projeto-Smartwatch/SmartWatchApp.git
   ``` 
 
 * Abra o projeto no IDE Java.
